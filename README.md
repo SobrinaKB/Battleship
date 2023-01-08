@@ -1,4 +1,4 @@
-# Battleship_SP1
+# Battleship
 
 Creating this game to increase my knowledge of javascript, HTML and CSS. 
 
